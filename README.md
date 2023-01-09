@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gazzty
 - 👀 I’m interested in learning web development, mainly backend
-- 🌱 I’m currently learning PHP, MySQL and linux.
-- 💞️ I’m looking to collaborate on projects with anyone interested!
+- 🌱 I’m currently learning Python and Django.
 - 📫 How to reach me: tomasgustavo99@gmail.com
 
 <!---
