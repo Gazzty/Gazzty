@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gazzty
-- 👀 I’m interested in learning programming and cybersecurity.
-- 🌱 I’m currently doing Hack the Box practices.
+- 👀 Trying to be a freelance developer!
+- 🌱 I’m currently doing web projects
 - 📫 How to reach me: tomasgustavo99@gmail.com
 
 <!---
