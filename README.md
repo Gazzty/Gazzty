@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gazzty
-- 👀 Trying to be a freelance developer!
+- 👀 Software developer in progress!
 - 🌱 I’m currently doing web projects
 - 📫 How to reach me: tomasgustavo99@gmail.com
 
